@@ -9,7 +9,6 @@ from datetime import datetime
 # ============================================================
 
 # 🔑 Apni Gemini API key yahan daalo
-GEMINI_API_KEY = "AIzaSyDFGw5ZMlJgMgY3lx1zwGjn3F-Ss_kfbVE"
 
 # ⚙️ Setup
 client = genai.Client(api_key=GEMINI_API_KEY)
