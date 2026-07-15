@@ -1,0 +1,75 @@
+{
+  "topic_id": 3,
+  "title": "Aapke pait mein hai 'Blade' pighlane wala acid!",
+  "pillar": "Science",
+  "duration": 24,
+  "lines": [
+    {
+      "time": 0,
+      "text": "Ek steel blade pani ban jayegi.",
+      "style": "HOOK"
+    },
+    {
+      "time": 2,
+      "text": "Bina kisi extra heat ke.",
+      "style": "HOOK"
+    },
+    {
+      "time": 4,
+      "text": "Scientists ne 1 live test kiya.",
+      "style": "FACT"
+    },
+    {
+      "time": 6,
+      "text": "Unhone sharp razor blade li.",
+      "style": "FACT"
+    },
+    {
+      "time": 8,
+      "text": "Aur iss liquid mein doobayi.",
+      "style": "FACT"
+    },
+    {
+      "time": 10,
+      "text": "Sirf 24 hours ke baad...",
+      "style": "FACT"
+    },
+    {
+      "time": 12,
+      "text": "Blade ka nishan tak mit gaya.",
+      "style": "FACT"
+    },
+    {
+      "time": 14,
+      "text": "Wo liquid aapke pait mein hai.",
+      "style": "TWIST"
+    },
+    {
+      "time": 16,
+      "text": "Isse Hydrochloric Acid kehte hain.",
+      "style": "FACT"
+    },
+    {
+      "time": 18,
+      "text": "Ye metal ko bhi pighla dega.",
+      "style": "FACT"
+    },
+    {
+      "time": 20,
+      "text": "Phir bhi aapka pait safe hai.",
+      "style": "FACT"
+    },
+    {
+      "time": 22,
+      "text": "Kyuki asli chamatkar ye layer hai.",
+      "style": "TWIST"
+    }
+  ],
+  "hashtags": [
+    "#Jaanlo_Yaar",
+    "#ScienceFacts",
+    "#DarkFacts",
+    "#AmazingFacts"
+  ],
+  "thumbnail_text": "STOMACH ACID MELTS METAL"
+}

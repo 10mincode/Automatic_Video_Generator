@@ -1,0 +1,65 @@
+{
+  "topic_id": 4,
+  "title": "Jab Chidiya ne poori Army ko hara diya!",
+  "pillar": "World Facts",
+  "duration": 25,
+  "lines": [
+    {
+      "time": 0,
+      "text": "Australia ki army ek jung haar gayi.",
+      "style": "HOOK"
+    },
+    {
+      "time": 2,
+      "text": "Shocking baat, dushman koi insaan nahi tha.",
+      "style": "HOOK"
+    },
+    {
+      "time": 5,
+      "text": "20,000 dushmanon ne desh gher liya tha.",
+      "style": "FACT"
+    },
+    {
+      "time": 7,
+      "text": "Inhe rokne ke liye Army bulayi gayi.",
+      "style": "FACT"
+    },
+    {
+      "time": 10,
+      "text": "Soldiers ke paas heavy Machine-guns thi.",
+      "style": "FACT"
+    },
+    {
+      "time": 12,
+      "text": "Hazaaron rounds firing bhi be-asar rahi.",
+      "style": "FACT"
+    },
+    {
+      "time": 15,
+      "text": "Birds ne kamal ki strategy lagayi.",
+      "style": "FACT"
+    },
+    {
+      "time": 17,
+      "text": "Bullets khatam ho gayi, parinde nahi.",
+      "style": "FACT"
+    },
+    {
+      "time": 20,
+      "text": "Aakhir mein Army ko surrender karna pada.",
+      "style": "TWIST"
+    },
+    {
+      "time": 23,
+      "text": "Ise kehte hain 'The Great Emu War'.",
+      "style": "TWIST"
+    }
+  ],
+  "hashtags": [
+    "#Jaanlo_Yaar",
+    "#WorldFacts",
+    "#HistoryShock",
+    "#EmuWar"
+  ],
+  "thumbnail_text": "ARMY VS BIRDS SHOCK"
+}

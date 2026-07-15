@@ -1,0 +1,155 @@
+[
+  {
+    "title": "Sach mein... 1518 mein log nachte-nachte mar gaye the?",
+    "pillar": "Dark History",
+    "hook": "Kya tumne kabhi suna hai ki naachna maut ki wajah ban sakta hai?",
+    "why_viral": "The 'Dancing Plague' is a bizarre, creepy historical anomaly that triggers deep curiosity.",
+    "id": 1,
+    "status": "filmed",
+    "created_at": "2026-04-12 23:37",
+    "scheduled_for": null,
+    "scripted_at": "2026-04-12 23:42",
+    "filmed_at": "2026-04-13 00:16"
+  },
+  {
+    "title": "Kya tum jaante ho... paani ek saath ubal aur jam sakta hai?",
+    "pillar": "Science",
+    "hook": "Science ka ek aisa magic jo physics ke saare rules tod deta hai!",
+    "why_viral": "The 'Triple Point' of water is visually mind-bending and defies common logic.",
+    "id": 2,
+    "status": "filmed",
+    "created_at": "2026-04-12 23:37",
+    "scheduled_for": null
+  },
+  {
+    "title": "Duniya ka sabse ameer kutta jiske paas apna private jet hai!",
+    "pillar": "Money & Power",
+    "hook": "Is kutte ki net worth bade-bade Bollywood stars se bhi zyada hai!",
+    "why_viral": "Wealth inequality stories involving animals evoke strong emotional reactions and envy-scrolling.",
+    "id": 3,
+    "status": "filmed",
+    "created_at": "2026-04-12 23:37",
+    "scheduled_for": null,
+    "scripted_at": "2026-04-13 09:26",
+    "filmed_at": "2026-04-13 09:42"
+  },
+  {
+    "title": "Woh secret room jo Mount Rushmore ke piche chupa hai!",
+    "pillar": "Mystery",
+    "hook": "Duniya ke sabse bade monument ke piche ek chupa hua darwaza hai!",
+    "why_viral": "Revealing hidden chambers in famous landmarks is a classic high-retention hook.",
+    "id": 4,
+    "status": "filmed",
+    "created_at": "2026-04-12 23:37",
+    "scheduled_for": null,
+    "scripted_at": "2026-04-13 21:52",
+    "filmed_at": "2026-04-13 21:58"
+  },
+  {
+    "title": "Duniya ka sabse khatarnak island jahan har kadam par maut hai!",
+    "pillar": "World Facts",
+    "hook": "Is island par insaano ka jaana maut ko dawat dena hai!",
+    "why_viral": "Snake Island (Brazil) content is visually terrifying and naturally engaging for thrill-seekers.",
+    "id": 5,
+    "status": "filmed",
+    "created_at": "2026-04-12 23:37",
+    "scheduled_for": null,
+    "scripted_at": "2026-04-14 08:17",
+    "filmed_at": "2026-04-14 08:22"
+  },
+  {
+    "title": "Woh mystery plane jo 35 saal baad achanak land hua!",
+    "pillar": "Mystery",
+    "hook": "Sochiye... ek plane take-off karta hai aur 35 saal baad land hota hai!",
+    "why_viral": "Urban legends about time slips or missing planes are legendary clickbait for mystery lovers.",
+    "id": 6,
+    "status": "filmed",
+    "created_at": "2026-04-12 23:37",
+    "scheduled_for": null,
+    "scripted_at": "2026-04-14 10:28",
+    "filmed_at": "2026-04-14 10:37"
+  },
+  {
+    "title": "Duniya ki sabse anokhi jung jahan chiriyon ne army ko hara diya!",
+    "pillar": "Dark History",
+    "hook": "History ki woh sharamnaak jung jab ek poori army chiriyon se haar gayi!",
+    "why_viral": "The 'Great Emu War' is a funny yet shocking historical fact that people love to share.",
+    "id": 7,
+    "status": "scripted",
+    "created_at": "2026-04-12 23:37",
+    "scheduled_for": null,
+    "scripted_at": "2026-04-14 10:30"
+  },
+  {
+    "title": "Woh secret jo Romans daant chamkane ke liye use karte the",
+    "pillar": "Dark History",
+    "hook": "Ye sun kar tum brush karna chhod doge... Romans apne daant chamkane ke liye urine use karte the!",
+    "why_viral": "Gross-out factor combined with historical curiosity often triggers high engagement and shares.",
+    "id": 8,
+    "status": "filmed",
+    "created_at": "2026-04-14 12:47",
+    "scheduled_for": null,
+    "scripted_at": "2026-04-14 12:52",
+    "filmed_at": "2026-04-14 12:56"
+  },
+  {
+    "title": "Duniya ka sabse ameer planet jahan heeron ki baarish hoti hai",
+    "pillar": "Science",
+    "hook": "Kya tum believe karoge ki ek aisi jagah bhi hai jahan baarish mein paani nahi, heere (diamonds) girte hain?",
+    "why_viral": "Visualizing diamond rain appeals to greed and wonder, a classic viral science trope.",
+    "id": 9,
+    "status": "pending",
+    "created_at": "2026-04-14 12:47",
+    "scheduled_for": null
+  },
+  {
+    "title": "Woh King jisne itna sona baanta ki economy tabah ho gayi",
+    "pillar": "Money & Power",
+    "hook": "Elon Musk toh kuch bhi nahi... milo uss aadmi se jisne raste mein sona baant kar mehangayi badha di!",
+    "why_viral": "Comparing modern billionaires to historical figures grabs attention of the 15-35 finance-focused demographic.",
+    "id": 10,
+    "status": "pending",
+    "created_at": "2026-04-14 12:47",
+    "scheduled_for": null
+  },
+  {
+    "title": "Samundar ke niche mili ek aisi city jisne scientists ko daraya",
+    "pillar": "Mystery",
+    "hook": "Ocean ke 80 feet niche ek puri city? Ye koi natural rock nahi, insaano ka banaya hua raaz hai!",
+    "why_viral": "Underwater mysteries (Yonaguni Monument) evoke a sense of 'forbidden knowledge' and visual intrigue.",
+    "id": 11,
+    "status": "pending",
+    "created_at": "2026-04-14 12:47",
+    "scheduled_for": null
+  },
+  {
+    "title": "Duniya ka sabse shaant kamra... yahan tum apne khoon ki awaaz sunoge",
+    "pillar": "World Facts",
+    "hook": "Itni khamoshi ki tum pagal ho jaoge... Microsoft ke iss room mein tum apni heartbeat tak sun sakte ho!",
+    "why_viral": "Human sensory deprivation is a fascinating concept that people love to debate 'how long they would last'.",
+    "id": 12,
+    "status": "pending",
+    "created_at": "2026-04-14 12:47",
+    "scheduled_for": null
+  },
+  {
+    "title": "Kya tum jaante ho Black Hole ke andar tumhare saath kya hoga?",
+    "pillar": "Science",
+    "hook": "Agar tum ek Black Hole mein gire, toh tum noodles ki tarah kheench kar lambe ho jaoge!",
+    "why_viral": "The 'Spaghettification' concept is visually shocking and easy to explain in a short format.",
+    "id": 13,
+    "status": "pending",
+    "created_at": "2026-04-14 12:47",
+    "scheduled_for": null
+  },
+  {
+    "title": "Sach mein? Ek aisi bimari jisme log naachte-naachte mar gaye",
+    "pillar": "Dark History",
+    "hook": "Imagine karo ek aisi bheed jo raste par naach rahi hai, par khushi se nahi... maut ke dar se!",
+    "why_viral": "The 'Dancing Plague' is one of the most bizarre historical events that sounds fake but is actually real.",
+    "id": 14,
+    "status": "pending",
+    "created_at": "2026-04-14 12:47",
+    "scheduled_for": null
+  }
+]
