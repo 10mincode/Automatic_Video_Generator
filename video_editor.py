@@ -14,8 +14,6 @@ from datetime import datetime
 # ============================================================
 
 # 🔑 API Keys — Apni keys yahan daalo
-PEXELS_API_KEY = "3EiAwD05lE6LJPhau5CgPzRvjDIQOTYnqGj6G3807pKCNtKAwERAthv4"
-GEMINI_API_KEY = "AIzaSyDFGw5ZMlJgMgY3lx1zwGjn3F-Ss_kfbVE"
 # ⚙️ Setup Gemini
 client = genai.Client(api_key=GEMINI_API_KEY)
  
